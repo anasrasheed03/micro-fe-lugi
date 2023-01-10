@@ -21,16 +21,7 @@ Luigi.setConfig({
                           },
                       }]
             }, 
-            
-            {
-                pathSegment: "one",
-                label: "Section one",
-                viewUrl: "/assets/basicMicroFrontend.html#one"
-            }, {
-                pathSegment: "two",
-                label: "Section two",
-                viewUrl: "/assets/basicMicroFrontend.html#two"
-            }]
+           ]
         }]
     },
     routing: {
